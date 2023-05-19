@@ -1,0 +1,3 @@
+Kegunaannya adalah untuk cakupan Set konfigurasi menggunakan Cypress.config hanya dalam lingkup untuk file spesifikasi saat ini. Cypress menjalankan setiap file spesifikasi secara terpisah. browser keluar di antara spesifikasi. Konfigurasi yang diubah dalam satu spesifikasi tidak akan terlihat di spesifikasi lain.
+
+Contoh: pada case pengumpulan tugas fixtures pada Section 5, ketika visit ke link saucedemo.com. URL pada browser Automation tidak mendapat link saucedemo.com. Lalu saya mencari permasalahan tersebut di google, dan jawabannya adalah menaruh sedikit code untuk mengarahkan ke halaman URL saucedemo.com pada file cypress.config.js
