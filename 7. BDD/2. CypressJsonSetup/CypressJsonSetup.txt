@@ -1,0 +1,5 @@
+Soal:
+- Menurut anda. Dari semua tahapan di awal pembuatan project ini masih berfokus kepada setup project. Pentingkah untuk setup project diawal pembuatan aplikasi? Berikan penjelasan anda.
+
+Jawaban:
+Menurut saya konfigurasi setup project sebelum memulai project sangatlah penting, karena terdapat fitur, library, atau kerangka kerja, dan lainnya yang berfungsi membantu kita didalam membuat project, atau kata lain kita tidak perlu membuat secara manual disemua file project kedepannya, cukup memanggil fitur, library, atau kerangka kerja dituliskan didalam file project tersebut.
