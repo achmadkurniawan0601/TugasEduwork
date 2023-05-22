@@ -1,0 +1,5 @@
+Pertanyaan:
+- Menurut anda, file prettierrc tersebut penting atau tidak? Berikan alasan dan penjelasan anda.
+
+Jawaban:
+Menurut saya file prettierrc adalah bagian file yang penting, karena Prettier mengikuti paradigma konfigurasi yang sama dengan ESLint, memberikan Anda file .prettierrc yang berkomitmen untuk repositori.  Ini juga akan membaca dari file .editorconfig jika file tersebut ada. Sebenarnya Anda bisa menyingkirkan ESLint dan Sass Lint dan menggunakan Prettier sebagai satu solusi Anda. Ini memiliki ekstensi sendiri untuk EsLint, StyleLint dan banyak lagi. 
