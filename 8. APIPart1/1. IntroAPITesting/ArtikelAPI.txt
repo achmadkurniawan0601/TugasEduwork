@@ -1,0 +1,8 @@
+- Materi yang dijelaskan hanya point terpentingnya saja. Selanjutnya, carilah artikel mengenai API lalu catat poin-poin pentingnya dan berikan kesimpulannya.
+
+Jawaban
+API singkatan dari Application Programming Interface. API adalah interface yang berupa kumpulan fungsi yang dapat dipanggil atau dijalankan oleh program lain. API dapat menghubungkan komunikasi dan pertukaran data antara dua program yang terpisah.
+
+API Testing adalah tipe software testing yang memvalidasi API, terjadi pada Business Layer, Software Layer yang paling kritis karena menghubungkan Presentation Layer dan Database Layer. API Layer juga menjadi penghubung antara Unit Layer dan UI Layer. Unit Layer adalah sebuah fitur aplikasi yang belum dapat dilihat user, bekerja dengan cepat karena masih satu modul, tapi memiliki nilai bisnis yang rendah. UI Layer adalah tampilan aplikasi yang dapat dilihat user, bekerja dengan lebih lama dibandung Unit Layer karena kumpulan dari Unit Layer dan API
+
+Jadi kesimpulannya API Testing adalah proses permintaan untuk melakukan suatu pembuatan, pertukaran, pembaharuan, dan penghapusan data.
