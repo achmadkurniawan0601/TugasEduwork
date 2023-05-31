@@ -1,0 +1,9 @@
+Menurut anda, assertion untuk Method Delete. Selain hanya status code apakah ada lagi?
+
+Jawaban
+Selain status code, kita juga bisa menggunakan:
+- Test script untuk membuat barisan kode yang sesuai dengan ekspetasi apabila kode script dijalankan.
+
+- Error message yang baik akan memudahkan developer dalam mengenali kesalahan seperti missing parameter, error parameter validation dll.
+
+- Authentication ini diperlukan untuk membatasi akses pada API. Karena API bersifat stateless (tidak menggunakan session untuk menyimpan auth) sehingga menggunakan token yang dikirim melalui header request seperti JWT dan OAuth2.
