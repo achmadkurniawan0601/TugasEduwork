@@ -1,0 +1,19 @@
+Tugas
+- Selain error code 404, masih ada banyak lagi error code yang lainnya.
+Coba sebutkan dan fungsina apa saja!
+
+Jawaban:
+- 401 (Unauthorized)
+Error ini muncul karena browser tak bisa memberikan bukti kewenangan yang sah saat diminta server.
+
+- 403 (Access to that resource is forbidden)
+Kode ini muncul saat pengguna berusaha mengakses sesuatu yang tak diizinkan. Misalnya, mengakses konten yang dikunci tanpa login terlebih dahulu. 
+
+- 405 (Method not allowed)
+Kode ini menunjukkan bahwa server hosting telah menerima dan mengenali permintaan dari browser. Namun, ia menolak metode HTTP yang digunakan. Sehingga browser tak bisa menampilkan halaman yang diminta.
+
+- 406 (Not acceptable response)
+HTTP status code yang satu ini berarti browser mengirim permintaan “accept header” dan server tak bisa memenuhinya.
+
+- 409 (Conflict)
+Seperti namanya, HTTP response code ini muncul saat terjadi konflik antara data yang diminta dan data yang tersedia. Biasanya karena data tersebut sering diubah-ubah.
