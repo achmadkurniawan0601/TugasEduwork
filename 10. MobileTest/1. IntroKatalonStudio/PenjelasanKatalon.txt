@@ -1,0 +1,1 @@
+Pada saat saya menjalankan test case, dan test suite di API Test pada Katalon. Semua test menunjukkan hasil passed, tanpa ada error.
