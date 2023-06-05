@@ -1,0 +1,5 @@
+Tugas
+- Dalam setiap API Automation Test. Validate Status apakah penting? Berikan pendapat anda.
+
+Jawaban
+Menurut saya Validate status dalam pengujian API Automation Testing sangatlah penting, karena dokumentasi yang diberikan dari Tim Backend menjadi ukuran paramater dalam pengujian API Automation Testing, karena parameter yang diberikan dari tim Backend menjadi tolak ukur apakah test case yang diujikan sesuai ekspetasi atau tidak.
