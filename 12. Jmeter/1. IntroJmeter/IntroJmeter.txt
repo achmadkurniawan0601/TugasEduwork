@@ -1,0 +1,16 @@
+Kelebihan Jmeter:
+- Skenario dapat dimasukkan
+- Dukungan dan pendidikan ekosistem yang kuat
+- Membutuhkan skenario lengkap untuk setiap pengujian
+
+Kekurangan Jmeter:
+- Jika Anda lebih suka aplikasi desktop UI atau tidak cukup mengetahui Javascript/YAML/JSON.
+- Jika beban tertentu perlu disimulasikan menggunakan desain ramp-up tertentu
+
+Kelebihan K6:
+- Anda dapat membuat sesi rekaman menggunakan file HAR.
+- Penggunaan Javascript yang ringan
+- Sumber terbuka, dokumentasi luar biasa, dan dukungan
+
+Kekurangan K6:
+- Memungkinkan untuk membuat skrip k6 secara otomatis melalui file HAR.
