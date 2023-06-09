@@ -1,0 +1,7 @@
+Pertanyaan
+- Apa fungsi dari SQL didalam sebuah pekerjaan seorang Quality Assurance?
+
+Jawaban
+Umumnya seorang quality assurance tester bertugas untuk memeriksa kerusakan atau masalah pada produk digital seperti aplikasi, software, game, dan website. Sebuah produk digital melakukan penyimpanan tentang informasi pengguna menggunakan database yang berbasis SQL. Seorang quality tester harus menguasai SQL agar mampu mengetahui detail terkait kerusakan agar bisa diperbaiki kembali.
+
+Itulah tadi penjelasan mengenai SQL, fungsi dan profesi yang harus menguasai SQL. Kesimpulannya benar jika SQL adalah bahasa pemrograman yang khusus digunakan ketika membuat maupun mengolah database dalam sebuah website. Tak hanya itu ternyata ada banyak profesi yang harus menguasai SQL ini. 
