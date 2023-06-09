@@ -1,0 +1,5 @@
+Pertanyaan:
+Menurut anda jenis report manakah dari Jmeter yang mudah dipahami? Berikan penjelasannya.
+
+Jawaban:
+Menurut saya jenis report yang mudah dipahamai adalah Summary Report. Karena GUI yang sangat nyaman bagi penggunanya, dan informasi yang diberikan berdasarkan hasil yang sudah dijalankan bisa dipahami oleh pengguna.
