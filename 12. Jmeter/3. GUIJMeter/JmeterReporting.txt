@@ -1,0 +1,2 @@
+Link penjelasan reporting reqres.in dengan menggunakan jmeter:
+ https://docs.google.com/document/d/1XTaspqjDboa_FdnsdTKaIAsJO9LH1aL-Fl-BvPU9rE8/edit
