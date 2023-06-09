@@ -1,0 +1,5 @@
+SELECT users.email, products.name, categories.description
+
+FROM products
+LEFT JOIN categories on products.id = categories.id
+LEFT JOIN users on users.id = products.id;
